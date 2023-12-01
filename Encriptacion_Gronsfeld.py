@@ -6,11 +6,6 @@ La interfaz de Entrada deberá solicitar los siguientes argumentos:
  - Frase a ser codificada
  - Clave de Cifrado
 La interfaz de salida presentara el resultado de la Frase Codificada al igual que la Frase Sin Codificar y Clave de Cifrado.
-
-Autores:
-    - Abreu Daniel
-    - Astudillo Franklin
-    - Briceño Alexander
 """
 from flet import *
 
